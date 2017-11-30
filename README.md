@@ -3,7 +3,7 @@ Created by Dmitri Salov, 2017
 
 Notes
 -----
-- This tool is written in Java. All work is done in IntelliJ IDEA with its automatic building functions. Gradle or Maven are not used.
+- This tool wasa written in Java. All work was done in IntelliJ IDEA with its automatic building functions. Gradle or Maven are not used.
 - The Dropbox API is used for storing files. Users will need to have a Dropbox account to use InfoSync.
 
 Description
